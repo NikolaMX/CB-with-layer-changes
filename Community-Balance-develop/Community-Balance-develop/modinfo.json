@@ -1,0 +1,17 @@
+{
+  "context": "server",
+  "identifier": "com.pa.various.community-balance",
+  "display_name": "Community Balance",
+  "description": "Balance changes produced by the community balance team for implementation by PA Inc.",
+  "author": "Quitch, Nik, Ferretmaster, Gryzzly",
+  "version": "1-beta",
+  "build": "115958",
+  "date": "2021-12-04",
+  "signature": " ",
+  "forum": "https://discord.com/channels/467998465004273674/916057474744864798",
+  "category": ["gameplay", "balance", "titans"],
+  "icon": "https://i.imgur.com/6CtZYl4.png",
+  "priority": 100,
+  "titansOnly": true,
+  "github": "https://github.com/Quitch/Community-Balance"
+}
